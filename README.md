@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-Software Engineering student with hands-on experience spanning back-end system design, RESTful API development, and real-time applications. I've built and shipped scalable, distributed backend services — including scheduling, concurrency, resource management, and microservices-oriented architecture — applying core design patterns, system design princples  and clean architecture principles. My stack includes C#, C++, JavaScript, ReactJS, and ASP.NET Core, with practical experience in relational databases and real-time communication. I enjoy solving systems-level problems and translating requirements into maintainable solutions that meet business requirements.
+Software Engineer with hands-on experience spanning back-end system design, RESTful API development, and real-time applications. I've built and shipped scalable, distributed backend services — including scheduling, concurrency, resource management, and microservices-oriented architecture — applying core design patterns, system design principles,  and clean architecture principles. My stack includes C#, C++, JavaScript, ReactJS, and ASP.NET Core, with practical experience in relational databases and real-time communication. I enjoy solving systems-level problems and translating requirements into maintainable solutions that meet business requirements.
 
 ### 🛠️ Tech Stack
 
